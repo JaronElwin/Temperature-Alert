@@ -8,4 +8,4 @@ temp = float(sys.argv[1])
 
 fahrenheit = (temp * 9/5) + 32
 print("Temperature in Celsius:", temp)
-print("Temperature in Fahrenheit:", fahrenheit)
+print("Temperature in Fahrenheit:", fahrenheit)
